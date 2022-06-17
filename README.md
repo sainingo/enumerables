@@ -1,4 +1,4 @@
-# Decode morse
+# Enumerables in ruby
 
 > This is a ruby project.
 
