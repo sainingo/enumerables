@@ -1,6 +1,6 @@
 # Enumerables in ruby
 
-> This is a ruby project.
+> This is a simple ruby project where I learnt how to import and use modules from two separate files.
 
 ## Getting Started
 - Have ruby installed
